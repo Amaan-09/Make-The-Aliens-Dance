@@ -1,0 +1,22 @@
+.copy_right_footer
+{
+    font-size: 25px;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    box-shadow: 5px 5px 5px grey;
+    color: red;
+}
+
+#result_label, #result_confidence
+{
+color: brown;
+}
+
+.note
+{
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: cursive;
+}
